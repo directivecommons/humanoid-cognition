@@ -86,4 +86,21 @@ Keep building black boxes. Keep guessing why failures happen. Keep training for 
 
 **Open Source | 3,200+ Lines | Hardware-Software Co-Design | Full Safety Certification Path**
 
-*Directive Commons | Apache 2.0 (Implementation) | CC BY-SA 4.0 (Specification)*
+*Directive Commons | CC BY-SA 4.0 (Specification)*
+
+---
+
+## ⚠️ Disclaimer
+
+This document represents a **conceptual exploration** published by Directive Commons. It is a thought experiment and architectural vision, not a research proposal, peer-reviewed work, or implementation plan.
+
+**Purpose:** To explore possibilities, inspire research directions, and establish conceptual frameworks.
+
+**Nature:** Speculative technical architecture combining real physics with ambitious integration. Individual components may reference demonstrated technologies; overall systems are exploratory and face significant challenges.
+
+**Use:** Released under CC BY 4.0. Provided "as is" without warranty. No liability assumed for actions based on these concepts.
+
+Think of this as "architectural fiction" — like concept cars that explore ideas which might influence future designs, even if never built as shown.
+
+---
+
